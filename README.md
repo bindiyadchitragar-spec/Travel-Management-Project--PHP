@@ -48,5 +48,8 @@ Place the project files in the htdocs (for XAMPP) or your web server's root dire
 Open your web browser and navigate to:
 http://localhost/travel-management
 
+<img width="601" height="426" alt="image" src="https://github.com/user-attachments/assets/0d577dc2-f424-425c-9519-33bfb84c26c4" />
+
+
 
 
