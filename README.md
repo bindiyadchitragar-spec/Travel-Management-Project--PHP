@@ -47,3 +47,6 @@ Ensure that your web server (Apache or Nginx) is running.
 Place the project files in the htdocs (for XAMPP) or your web server's root directory.
 Open your web browser and navigate to:
 http://localhost/travel-management
+
+
+
