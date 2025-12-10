@@ -27,7 +27,7 @@ To run this project locally, you need:
 
 Clone this repository to your local machine using:
 '''bash
-git clone https://github.com/your-username/travel-management.git
+(https://github.com/bindiyadchitragar-spec/Travel-Management-Project--PHP.git)
 
 STEP 2:
 
